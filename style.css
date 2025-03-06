@@ -6,9 +6,11 @@ body{
 }
 .navbar{
     background: #F8F5E9;
-   
   
-    
+}
+.nava{
+    position: fixed;
+    width: 100%;
 }
 
 .heading{
